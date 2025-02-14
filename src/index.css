@@ -1,11 +1,17 @@
+* {
+  max-width: 100%;
+}
+
 html {
   font-size: 1rem;
 }
 
 body {
+  width: 100%;
   font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-seri;
   font-weight: 400;
   margin: 0;
+  padding: 0;
   background-color: #222;
   color: white;
 }
