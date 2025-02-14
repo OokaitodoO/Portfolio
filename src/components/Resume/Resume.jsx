@@ -1,5 +1,5 @@
 import React from 'react'
-import Style from './ResumeStyle.css'
+import Style from './ResumeStyle.module.css'
 
 function Resume() {
   return (
