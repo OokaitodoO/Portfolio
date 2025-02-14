@@ -1,0 +1,32 @@
+#home {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-welcome {
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    text-align: center;
+}
+
+.p-first {
+    font-size: 40px;
+    font-weight: 200;
+    margin: 0;
+}
+
+.p-sec {
+    font-size: 40px;
+    font-weight: 800;
+    margin: 0;
+    padding-bottom: 20px;
+}
+
+.p-third {
+    letter-spacing: .2rem;
+    opacity: 0.5;
+    font-size: 16px;
+    margin: 0;
+}

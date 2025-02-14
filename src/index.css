@@ -1,0 +1,53 @@
+html {
+  font-size: 1rem;
+}
+
+body {
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-seri;
+  font-weight: 400;
+  margin: 0;
+  background-color: #222;
+  color: white;
+}
+
+#main-layout {
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  grid-template: 
+  'n' 56px
+  'h'
+  'p'
+  'r'
+  'a'
+  'c';
+}
+
+#nav {
+  grid-area: n;
+}
+
+#home {
+  grid-area: h;
+  height: 100vh;
+}
+
+#portfolio {
+  grid-area: p;
+  height: 100vh;
+}
+
+#resume {
+  grid-area: r;
+  height: 100vh;
+}
+
+#about {
+  grid-area: a;
+  height: 100vh;
+}
+
+#contact {
+  grid-area: c;
+  height: 100vh;
+}
