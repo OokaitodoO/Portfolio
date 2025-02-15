@@ -3,6 +3,7 @@ import './NavStyle.css'
 
 function Nav() {
   const scrollToSection = (id) => {
+    console.log(`Scroll to section : ${id}` );
     document.getElementById(id).scrollIntoView({behavior: "smooth"});
   };
 
