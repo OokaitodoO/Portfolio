@@ -36,25 +36,25 @@ body {
 
 #home {
   grid-area: h;
-  height: 100vh;
+  min-height: 100vh;
 }
 
 #portfolio {
   grid-area: p;
-  height: 100vh;
+  min-height: 100vh;
 }
 
 #resume {
   grid-area: r;
-  height: 100vh;
+  min-height: 100vh;
 }
 
 #about {
   grid-area: a;
-  height: 100vh;
+  min-height: 100vh;
 }
 
 #contact {
   grid-area: c;
-  height: 100vh;
+  min-height: 100vh;
 }
