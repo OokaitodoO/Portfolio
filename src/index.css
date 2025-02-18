@@ -46,7 +46,6 @@ body {
 
 #resume {
   grid-area: r;
-  min-height: 100vh;
 }
 
 #about {

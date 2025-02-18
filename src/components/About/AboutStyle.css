@@ -4,11 +4,47 @@
     height: 100%;
 }
 
+#about h2 {
+    font-weight: 200;
+}
+
 #about .container {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     justify-content: center;
+    align-items: center;
     max-width: 1140px;
+}
+
+#about .about-lead {
+    font-weight: 200;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    opacity: 0.4;
+    margin: 0;
+    margin-bottom: 1rem;
+}
+
+#about .about-description {
+    margin-bottom: 3rem;
+    margin-top: 0;
+    opacity: 0.4;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.7;
+}
+
+#about .about-img {
+    margin: 0;
+    margin-left: 48px;
+    margin-right: 16px;
+}
+
+#about .about-text {
+    padding: 15px;
+    margin: 0;
+    margin-left: 48px;
+    margin-right: 16px;
 }
 
 @media (max-width: 850px) {
