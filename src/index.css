@@ -1,5 +1,6 @@
 * {
   max-width: 100%;
+  height: auto;
 }
 
 html {
@@ -8,7 +9,7 @@ html {
 }
 
 body {
-  width: 100%;
+  width: 100%;    
   font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-seri;
   font-weight: 400;
   margin: 0;
@@ -18,16 +19,17 @@ body {
 }
 
 #main-layout {
-  width: 100vw;
-  height: 100vh;
+  width: 100%;
+  min-height: 100vh;
   display: grid;
-  grid-template: 
-  'n' 56px
-  'h'
-  'p'
-  'r'
-  'a'
-  'c';
+  grid-template-rows: 56px repeat(5, auto);
+  grid-template-areas:
+    "n" 
+    "h"
+    "a"
+    "r"
+    "p"
+    "c";
 }
 
 #nav {
