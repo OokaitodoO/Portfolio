@@ -57,6 +57,7 @@
     font-weight: 700;
     color: #fff;
     margin-bottom: 10px;
+    opacity: 0.7;
 }
 
 #resume .resume-item h3 {
@@ -70,10 +71,10 @@
 #resume .resume-item p {
     margin-top: 0;
     margin-bottom: 1rem;
-    opacity: 0.4;
+    opacity: 1.0;
     line-height: 1.7;
     font-size: 16px;
-    font-weight: 300;
+    font-weight: 300;    
 }
 
 #resume .resume-item .school {

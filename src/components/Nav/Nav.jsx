@@ -13,8 +13,8 @@ function Nav() {
             <li className='nav-action'><button onClick={() => scrollToSection("home")}>Home</button></li>
             <li className='nav-action'><button onClick={() => scrollToSection("portfolio")}>Portfolio</button></li>
             <li className='nav-action'><button onClick={() => scrollToSection("resume")}>Resume</button></li>
-            <li className='nav-action'><button onClick={() => scrollToSection("about")}>About</button></li>
-            <li className='nav-action'><button onClick={() => scrollToSection("contact")}>Contact</button></li>
+            {/* <li className='nav-action'><button onClick={() => scrollToSection("about")}>About</button></li> */}
+            {/* <li className='nav-action'><button onClick={() => scrollToSection("contact")}>Contact</button></li> */}
         </ul>
     </section>
   )

@@ -1,11 +1,15 @@
 #portfolio {
     display: flex;
+    min-height: 100vh;
     justify-content: center;
-    height: 100%;
+    align-items: flex-start;
 }
 
-.container {
-    margin: 10;
+.container {         
+    margin: 10px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
 }
 
 .title {
@@ -44,6 +48,8 @@ strong {
 
 .card-img {
     margin-bottom: 20px;
+    height: 350px;
+    width: 350px;
 }
 
 .card-img img{
@@ -67,6 +73,22 @@ a:hover {
 }
 
 a:active {
+    color: white;
+}
+
+.game-link {
+    font-size: 12px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #cccccc;
+    cursor: pointer;
+}
+
+.game-link:hover {
+    text-decoration: underline;
+}
+
+.game-link:active {
     color: white;
 }
 

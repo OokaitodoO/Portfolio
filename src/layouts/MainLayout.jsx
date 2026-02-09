@@ -11,10 +11,10 @@ function MainLayout() {
     <section id='main-layout'>
         <Nav></Nav>
         <Home></Home>
+        {/* <About></About> */}
         <Portfolio></Portfolio>
         <Resume></Resume>
-        <About></About>
-        <Contact></Contact>
+        {/* <Contact></Contact> */}
     </section>
   )
 }

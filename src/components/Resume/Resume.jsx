@@ -18,30 +18,12 @@ function Resume() {
             <div className='resume-item'>
               <span className='date'>
                 <span className='icon-caldendar'></span>
-                March 2013 - Present
+                2022 - Present
              </span>
-              <h3>Master in Information Technology</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+              <h3>CAMT, Chiang Mai University, Thailand</h3>
+              <p>ศึกษาอยู่ที่วิทยาลัยศิลปะ สื่อ และเทคโนโลยี สาขาดิจิทัลเกม ชั้นปีที่ 4 มหาวิทยาลัยเชียงใหม่ ซึ่งสนใจและศึกษาเกี่ยวกับการพัฒนาเกมด้วย Unity และการเขียนโปรแกมด้วยภาษา C#</p>
               <span className='school'>Chiang Mai University</span>
-            </div>
-            <div className='resume-item'>
-              <span className='date'>
-                <span className='icon-caldendar'></span>
-                March 2013 - Present
-              </span>
-              <h3>Master in Information Technology</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-              <span className='school'>Chiang Mai University</span>
-            </div>
-            <div className='resume-item'>
-              <span className='date'>
-                <span className='icon-caldendar'></span>
-                March 2013 - Present
-              </span>
-              <h3>Master in Information Technology</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-              <span className='school'>Chiang Mai University</span>
-            </div>
+            </div>            
           </div>
 
           {/*Exprirence section*/}
@@ -50,30 +32,12 @@ function Resume() {
             <div className='resume-item'>
               <span className='date'>
                 <span className='icon-caldendar'></span>
-                March 2013 - Present
+                2024 - Present
               </span>
-              <h3>Master in Information Technology</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-              <span className='school'>Chiang Mai University</span>
-            </div>
-            <div className='resume-item'>
-              <span className='date'>
-                <span className='icon-caldendar'></span>
-                March 2013 - Present
-              </span>
-              <h3>Master in Information Technology</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-              <span className='school'>Chiang Mai University</span>
-            </div>
-            <div className='resume-item'>
-              <span className='date'>
-                <span className='icon-caldendar'></span>
-                March 2013 - Present
-              </span>
-              <h3>Master in Information Technology</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-              <span className='school'>Chiang Mai University</span>
-            </div>
+              <h3>Varisoft Internship</h3>
+              <p>ประสบการณ์การฝึกงานที่บริษัท Varisoft ได้เรียนรู้เกี่ยวกับพัฒนาเกมมือถือแพลตฟอร์ม Android ด้วย Unity และ C# ซึ่งได้เรียนรู้และความเข้าใจเกี่ยวกับการ Programming มากขึ้นไม่ว่าจะเป็นการทำ Object pooling, State machine, การทำเกม Multiplayer ด้วย MagicOnion และได้เรียนรู้กระบวนการทำงานกับทีมและพี่ๆ ในบริษัท</p>
+              <span className='school'>Varisoft</span>
+            </div>            
           </div>
 
         </div>
